@@ -1,0 +1,7 @@
+- Hey, I’m Heio, but My Colleagues Call Me Norsk
+- I am a 3rd Year Biochemistry Student on a Pre-Med Pathway
+- I Frequently Code in Python, Lua, and JavaScript Just for Fun
+- Currently Trying to Learn C# and C++
+- You Can Reach out to Me through Discord or via Email
+- Email: Heio3D@outlook.com
+- Discord: NorskHyper
